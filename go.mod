@@ -1,4 +1,4 @@
-module github.com/QiZhang1997/unikernelCmd
+module github.com/QiZhang1997/unikernel
 
 go 1.12
 
